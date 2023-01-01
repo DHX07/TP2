@@ -32,6 +32,6 @@ jobs:
       with:
           push: true
           image: dhia07/automated_workflow
-          tags: v1, latest      
+          tags:  latest      
    
          
