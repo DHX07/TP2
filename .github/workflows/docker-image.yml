@@ -10,6 +10,7 @@ jobs:
 
   build:
 
+
     runs-on: ubuntu-latest
 
     steps:
@@ -29,4 +30,3 @@ jobs:
           push: true
           tags: dhia07/automated_workflow:latest
          
-      
